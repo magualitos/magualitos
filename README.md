@@ -22,10 +22,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api?username=magualitos&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=dracula" />
-</p>
+![magualitos's Stats](https://github-readme-stats.vercel.app/api?username=magualitos&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 ## 📫 Contato
 
@@ -35,4 +32,3 @@
 
 ⭐️ Obrigado por visitar meu perfil!
 
-![magualitos's Stats](https://github-readme-stats.vercel.app/api?username=magualitos&theme=dracula&show_icons=true&hide_border=true&count_private=true)
