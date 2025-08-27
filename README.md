@@ -10,7 +10,6 @@
 
 - 🔭 Atualmente trabalhando com: **[Nada em especifico]**
 - 🌱 Estudando: **[tecnologia ou área, ex: Programação Web]**
-- 💬 Pergunte-me sobre: **[tecnologias que você domina]**
 - 📫 Como me encontrar: **[@mig_sambati]**
 - ⚡ Curiosidade: **[sou daltônico]**
 
