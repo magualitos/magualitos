@@ -8,7 +8,6 @@
 
 Gosto de tecnologia e tenho interesse em desenvolvimento web e código aberto. Por aqui, compartilho meu código e acompanho projetos da comunidade.
 
-- 🎨 Uma curiosidade sobre mim é que sou daltônico.
 - 💬 Você também me encontra como **`@mig_sambati`**.
 
 ## 🛠️ Tecnologias e ferramentas
