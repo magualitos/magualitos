@@ -17,10 +17,6 @@ Gosto de tecnologia e tenho interesse em desenvolvimento web e código aberto. P
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
 
-## 📊 GitHub
-
-![Estatísticas do perfil magualitos no GitHub](https://github-readme-stats.vercel.app/api?username=magualitos&show_icons=true&theme=dracula&hide_border=true)
-
 ## 📫 Contato
 
 [✉️ Envie um e-mail](mailto:miguel.sambati25@gmail.com)
